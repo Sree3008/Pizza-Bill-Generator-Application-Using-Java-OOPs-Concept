@@ -8,5 +8,4 @@ git commit -m "New Project Created Using Java OOPs"
 git log
 git remote add origin https://github.com/Sree3008/Pizza-Bill-Generator-Application-Using-Java-OOPs-Concept.git
 git push -u origin main -->
-
-# commands used to push all into the remote repo
+<!-- these are the command i had used before -->
